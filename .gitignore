@@ -1,0 +1,7 @@
+Debug
+IPCH
+
+*.opensdf
+*.sdf
+*.suo
+*.TMP
